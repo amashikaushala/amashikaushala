@@ -59,6 +59,11 @@
 🔹 **Tech:** JavaScript, WebSockets  
 🔹 **Description:** A real-time chat box for online communication.  
 
+🔹 [Weather App]  
+🔹 **Tech:** HTML, CSS, JavaScript  
+🔹 **Description:** A web application that provides real-time weather updates using OpenWeather API.  
+
+📫 Connect With Me  
  📫 Connect With Me  
 📧 Email: amashikaushala2003@gmail.com  
 💼 LinkedIn:[www.linkedin.com/in/amashi-kaushala] 
